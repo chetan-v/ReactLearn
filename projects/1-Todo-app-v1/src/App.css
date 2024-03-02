@@ -1,0 +1,16 @@
+h1 {
+  font-weight: 900;
+  font-size: 45px;
+  margin: 10px;
+}
+input {
+  width: 100%;
+}
+.items-container {
+  text-align: left;
+}
+.c-row {
+  margin: 10px 5px;
+}
+.c-button {
+}
