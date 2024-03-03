@@ -13,4 +13,5 @@ input {
   margin: 10px 5px;
 }
 .c-button {
+  min-width: 80px;
 }

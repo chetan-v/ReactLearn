@@ -1,3 +1,5 @@
+import AddDeleteButton from "./AddDeleteButton";
+
 function AddTodo() {
     return <div className="container text-center">
 
@@ -9,7 +11,7 @@ function AddTodo() {
                 <input type="date" />
             </div>
             <div className="col-2">
-                <button className="btn btn-success">Add</button>
+                <AddDeleteButton name="Add" class="success" />
             </div>
         </div>
     </div>

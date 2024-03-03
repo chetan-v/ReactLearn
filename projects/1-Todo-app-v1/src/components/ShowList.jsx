@@ -15,7 +15,7 @@ function ShowList() {
                 {todoDate}
             </div>
             <div className="col-2">
-                <AddDeleteButton />
+                <AddDeleteButton name="Delete" class="danger" />
             </div>
         </div>
     </div>
